@@ -1,0 +1,14 @@
+# Dependências do Node
+node_modules/
+
+# Arquivos de ambiente 
+.env
+
+# Relatórios e resultados de testes do Playwright
+playwright-report/
+test-results/
+playwright/.cache/
+
+# Outros arquivos de sistema
+.DS_Store
+dist/
