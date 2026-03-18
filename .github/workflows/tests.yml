@@ -1,0 +1,1 @@
+run: echo "NASA_API_KEY=${{ secrets.NASA_API_KEY }}" > .env
